@@ -239,6 +239,16 @@ h4 {
   margin-top: 50px;
   margin-bottom: 94px;
 }
+.our-clients li {
+  border-radius: 4px;
+  border: 1px solid #afb1b8;
+  min-width: 170px;
+  padding: 20px 64px;
+  text-align: center;
+}
+.our-clients li:not(:last-child) {
+  margin-right: 30px;
+}
 /*Footer*/
 footer {
   background-color: #2f303a;
